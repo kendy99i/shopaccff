@@ -69,11 +69,6 @@
   <div class="overlay"></div>
   <div class="content">
     <h1>🔥 SHOP ACC FREE FIRE 🔥</h1>
-    <p>Chào mừng đến với thiên đường acc Free Fire - Uy tín, nhanh chóng, hỗ trợ 24/7!</p>
-    <a href="index.html" class="btn">Vào Shop Ngay</a>
-  </div>
-</body>
-</html>
 # 🎮 Shop Acc Free Fire Chính Hãng
 Chào mừng bạn đến với **ShopAccFF** – nơi cung cấp tài khoản Free Fire uy tín, chất lượng, đa dạng skin và giá siêu rẻ! 💥
 
