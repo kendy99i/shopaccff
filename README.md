@@ -1,3 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Shop ACC Free Fire - Chào Mừng</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Bebas Neue', sans-serif;
+      background: url('https://i.imgur.com/0eJfKvQ.jpeg') no-repeat center center/cover;
+      height: 100vh;
+      color: white;
+      overflow: hidden;
+    }
+
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.7);
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0; left: 0;
+      z-index: 1;
+    }
+
+    .content {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      top: 50%;
+      transform: translateY(-50%);
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 60px;
+      margin-bottom: 20px;
+      color: #FFD700;
+    }
+
+    p {
+      font-size: 24px;
+      max-width: 600px;
+      margin: auto;
+      color: #ccc;
+    }
+
+    .btn {
+      margin-top: 30px;
+      font-size: 22px;
+      background: #FF0000;
+      color: white;
+      padding: 12px 30px;
+      text-decoration: none;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #FF0000;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #cc0000;
+      box-shadow: 0 0 20px #cc0000;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+  <div class="content">
+    <h1>🔥 SHOP ACC FREE FIRE 🔥</h1>
+    <p>Chào mừng đến với thiên đường acc Free Fire - Uy tín, nhanh chóng, hỗ trợ 24/7!</p>
+    <a href="index.html" class="btn">Vào Shop Ngay</a>
+  </div>
+</body>
+</html>
 # 🎮 Shop Acc Free Fire Chính Hãng
 Chào mừng bạn đến với **ShopAccFF** – nơi cung cấp tài khoản Free Fire uy tín, chất lượng, đa dạng skin và giá siêu rẻ! 💥
 
