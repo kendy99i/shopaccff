@@ -21,7 +21,7 @@ Chào mừng bạn đến với **ShopAccFF** – nơi cung cấp tài khoản F
 
 ---
 
-## 🧑‍💻 Liên hệ & hỗ trợ
+## 🧑‍💻 Liên hệ & hỗ trợ.
 
 - 💬 **Zalo:** [zalo.me/0961800615](https://zalo.me/0961800615)
 - 📧 **Email:** shopaccff@gmail.com
