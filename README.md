@@ -32,12 +32,93 @@ Chào mừng bạn đến với **ShopAccFF** – nơi cung cấp tài khoản F
 ✅ Nội dung chuyển khoản: MUA ACC [Tên acc]
 Sau khi thanh toán, nhắn Zalo để nhận tài khoản! TKNH:3928122007 mbbank
 ---
-# 📋 Danh sách acc Free Fire
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Đăng nhập Google VN - Free Fire</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background: linear-gradient(to bottom right, #f8fbff, #f3fefc);
+    }
 
-| Email đăng nhập | Rank | Skin VIP | Giá | Trạng thái |
-|------------------|------|-----------|------|------------|
-| OlympieBryanczh68553t@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
-| MitziSellerxot65267a@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
-| NatkaVandykeqwk13348m@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
-| MiaBarberghu15384f@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
+    .card {
+      background: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      max-width: 600px;
+      margin: auto;
+    }
+
+    .title {
+      font-size: 1.6rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .info {
+      font-style: italic;
+      margin-top: 1rem;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .badges {
+      display: flex;
+      gap: 1rem;
+      margin-top: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      padding: 1rem;
+      border-radius: 0.5rem;
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .red { border: 2px solid #f44336; color: #f44336; }
+    .blue { border: 2px solid #00bcd4; color: #00bcd4; }
+    .green { border: 2px solid #4caf50; color: #4caf50; }
+    .flag {
+      display: flex;
+      align-items: center;
+      border: 2px solid orange;
+      padding: 1rem;
+      border-radius: 0.5rem;
+    }
+
+    .flag img {
+      width: 30px;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="title">
+      <img src="https://i.imgur.com/jD0A2dX.png" width="30" alt="Free Fire"> Đăng nhập Google VN
+    </div>
+    <div class="info">
+      <b>➤ Vui lòng ĐỌC KỸ THÔNG BÁO</b> trước khi sử dụng dịch vụ. Do Google hạn chế tạo nhiều tài khoản trên một thiết bị, chúng tôi thuê email bên ngoài để liên kết tài khoản và sử dụng live trong 7 ngày.
+    </div>
+    <div class="badges">
+      <div class="badge red">Giá: 3.900đ</div>
+      <div class="badge blue">Còn lại: 8</div>
+      <div class="badge green">Đã bán: 0</div>
+    </div>
+    <div class="flag" style="margin-top: 1rem;">
+      Quốc gia:
+      <img src="https://flagcdn.com/w40/vn.png" alt="VN flag">
+    </div>
+  </div>
+</body>
+</html>
 > 🚫 *Chúng tôi cam kết không bán acc lừa đảo, hoàn tiền nếu acc lỗi!*
