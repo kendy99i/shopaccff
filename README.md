@@ -43,31 +43,7 @@
     p {
       font-size: 24px;
       max-width: 600px;
-      margin: auto;
-      color: #ccc;
-    }
-
-    .btn {
-      margin-top: 30px;
-      font-size: 22px;
-      background: #FF0000;
-      color: white;
-      padding: 12px 30px;
-      text-decoration: none;
-      border-radius: 10px;
-      box-shadow: 0 0 10px #FF0000;
-      transition: 0.3s;
-    }
-
-    .btn:hover {
-      background: #cc0000;
-      box-shadow: 0 0 20px #cc0000;
-    }
-  </style>
-</head>
-<body>
-  <div class="overlay"></div>
-  <div class="content">
+      
     <h1>🔥 SHOP ACC FREE FIRE 🔥</h1>
 # 🎮 Shop Acc Free Fire Chính Hãng
 Chào mừng bạn đến với **ShopAccFF** – nơi cung cấp tài khoản Free Fire uy tín, chất lượng, đa dạng skin và giá siêu rẻ! 💥
