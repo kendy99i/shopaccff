@@ -6,4 +6,3 @@
 | MitziSellerxot65267a@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
 | NatkaVandykeqwk13348m@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
 | MiaBarberghu15384f@blhhs.org | Lv5 | Acc thường | 3900₫ | ✅ Còn |
-| Truong3979 | Lv5 | Acc đặc biệt | 3900₫ | ✅ Còn |
